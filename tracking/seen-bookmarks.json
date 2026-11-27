@@ -1,5 +1,12 @@
 {
   "proposed": [],
-  "skipped": [],
+  "skipped": [
+    {
+      "id": "2125401695765336309",
+      "title": "Claude Install as app: artifacts become desktop apps",
+      "url": "https://x.com/Malay4Product/status/2125401695765336309",
+      "date": "2026-11-27"
+    }
+  ],
   "built": []
 }
