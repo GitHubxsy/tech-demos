@@ -1,0 +1,47 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Bun
+.bun/
+
+# build output
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+.expo/
+.turbo/
+.cache/
+*.tsbuildinfo
+
+# env and local secrets
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bun-debug.log*
+
+# test and coverage
+coverage/
+.nyc_output/
+
+# Cloudflare
+.wrangler/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
